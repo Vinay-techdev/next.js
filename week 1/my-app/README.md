@@ -1,12 +1,12 @@
-1.Introduction
-2.Setup
-3.Folder structure
-4.Routing
-5.Link Components
-6.Route Groups
-7.Tailwind css
-8.image & font Components
-9.React server and client Components
-10.Dynamic routes
-11.searchParams and useSearchParams
-12. catch-all segments
+1.Introduction <br>
+2.Setup <br>
+3.Folder structure <br>
+4.Routing <br>
+5.Link Components <br>
+6.Route Groups <br>
+7.Tailwind css <br>
+8.image & font Components <br>
+9.React server and client Components <br>
+10.Dynamic routes <br>
+11.searchParams and useSearchParams <br>
+12. catch-all segments <br>
